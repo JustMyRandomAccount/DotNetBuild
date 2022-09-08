@@ -1,0 +1,15 @@
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/bin/Debug/net6.0/src
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/bin/Debug/net6.0/src.deps.json
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/bin/Debug/net6.0/src.runtimeconfig.json
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/bin/Debug/net6.0/src.dll
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/bin/Debug/net6.0/src.pdb
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.csproj.AssemblyReference.cache
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.AssemblyInfoInputs.cache
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.AssemblyInfo.cs
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.csproj.CoreCompileInputs.cache
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.dll
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/refint/src.dll
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.pdb
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/src.genruntimeconfig.cache
+/Users/azarattum/Projects/Education/Term 7/Mobile/lab1/DotNet/src/obj/Debug/net6.0/ref/src.dll
