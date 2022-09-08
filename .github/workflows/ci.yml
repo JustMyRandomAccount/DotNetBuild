@@ -1,11 +1,24 @@
-steps:
-  - uses: actions/checkout@v3
-  - uses: actions/setup-dotnet@v2
-    with:
-      dotnet-version: "6.0.x"
-  - run: dotnet build
+name: Build
 
-  - uses: actions/upload-artifact@v3
-    with:
-      name: app
-      path: src/bin/
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  Build:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: "6.0.x"
+      - run: dotnet build
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: app
+          path: src/bin/
